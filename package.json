@@ -1,0 +1,16 @@
+{
+  "name": "projeto1",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r <a href= \"https://www.inteli.edu.br/\"><img src=\"https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png\" alt=\"Inteli - Instituto de Tecnologia e Liderança\" border=\"0\"></a>\r </p>",
+  "main": "./src/Backend/index.js",
+  "scripts": {
+    "start": "node ./src/Backend/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
